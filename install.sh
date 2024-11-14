@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r Pterodactyl_Nightcore_Theme
-    git clone https://github.com/NoPro200/Pterodactyl_Nightcore_Theme.git
+    git clone https://github.com/MinecraftServer1235/theme.git
     cd Pterodactyl_Nightcore_Theme
     rm /var/www/pterodactyl/resources/scripts/Pterodactyl_Nightcore_Theme.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
