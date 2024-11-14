@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://github.com/MinecraftServer1235/theme/blob/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/MinecraftServer1235/theme/refs/heads/main/repair.sh)
 }
 
 restoreBackUp(){
