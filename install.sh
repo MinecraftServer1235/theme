@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/NoPro200/Pterodactyl_Nightcore_Theme/main/repair.sh)
+    bash <(curl https://github.com/MinecraftServer1235/theme/blob/main/repair.sh)
 }
 
 restoreBackUp(){
